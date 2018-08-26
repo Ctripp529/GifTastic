@@ -1,0 +1,18 @@
+body {
+        background-image: url("../images/backgrnd.png");
+        background-size: 100%;
+    }
+.foodBtns {
+        margin: 0px 5px 5px 0px;
+    }
+.row {
+        margin-bottom: 4vh;
+        margin-left: 3vw;
+        margin-right: 3vw;
+    }
+.food {
+        float: left;
+        margin-bottom: 10px;
+        margin-right: 10px;
+    }
+
